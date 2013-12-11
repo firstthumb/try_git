@@ -1,6 +1,3 @@
 erol
 master update1
 master update2
-branch3 update1
-branch3 update2
-branch3 update3
